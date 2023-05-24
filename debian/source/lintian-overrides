@@ -1,0 +1,4 @@
+python-typing-extensions source: file-without-copyright-information
+python-typing-extensions source: no-debian-changes
+python-typing-extensions source: source-contains-prebuilt-windows-binary
+python-typing-extensions source: source-package-encodes-python-version
