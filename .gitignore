@@ -15,3 +15,5 @@ venv*/
 *.swp
 *.pyc
 *.egg-info/
+
+.pybuild
