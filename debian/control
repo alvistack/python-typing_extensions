@@ -2,7 +2,7 @@ Source: python-typing-extensions
 Section: python
 Priority: optional
 Standards-Version: 4.5.0
-Maintainer: Wong Hoi Sing Edison <hswong3i@gmail.com>
+Maintainer: Wong Hoi Sing Edison <hswong3i@pantarei-design.com>
 Homepage: https://github.com/python/typing_extensions/tags
 Vcs-Browser: https://github.com/alvistack/python-typing_extensions
 Vcs-Git: https://github.com/alvistack/python-typing_extensions.git
