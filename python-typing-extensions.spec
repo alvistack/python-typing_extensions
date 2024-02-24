@@ -14,6 +14,8 @@
 
 %global debug_package %{nil}
 
+%global source_date_epoch_from_changelog 0
+
 Name: python-typing-extensions
 Epoch: 100
 Version: 4.8.0
